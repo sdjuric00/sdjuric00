@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, Srđan here! 👋</h1>
 <h3 align="center">I am a final year Software Engineering and Information Technologies student at the Faculty of Technical Sciences, University of Novi Sad.</h3>
 
-- 👯 I’m currently collaborator on one banking system project that uses set of rules for banking services [banking-system](https://github.com/anestejzn/banking-system)
+- 👯 I’m currently working on railway system application in which I'm planning to learn more about microservice architecture, kafka and docker
 
 - 📫 Reach me
   - &nbsp; <a href="https://www.linkedin.com/in/srdjan-djuric/">Linkedin</a>
