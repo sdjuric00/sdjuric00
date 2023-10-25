@@ -1,5 +1,6 @@
 <h1 align="center">Hello World, Srđan here! 👋</h1>
-<h3 align="center">I am a final year Software Engineering and Information Technologies student at the Faculty of Technical Sciences, University of Novi Sad.</h3>
+<h3 align="center">Master's degree student in Project Management</h3>
+<h3 align="center">Bachelor's degree in Computer Science from Faculty of Technical Sciences, University of Novi Sad.</h3>
 
 - 👯 I’m currently working on railway system application
 
