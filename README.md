@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, Srđan here! 👋</h1>
-<h3 align="center">Master's degree Engineering Management (direction Project Management)</h3>
+<h3 align="center">Master's degree in Engineering Management (direction Project Management)</h3>
 <h3 align="center">Bachelor's degree in Computer and Electrical Engineering</h3>
-<h3>Faculty of Technical Sciences, University of Novi Sad</h3>
+<h3 align="center">Faculty of Technical Sciences, University of Novi Sad</h3>
 <br>
 - 📫 Reach me
   - &nbsp; <a href="https://www.linkedin.com/in/srdjan-djuric/">Linkedin</a>
